@@ -1,4 +1,9 @@
-# TestDatepicker
+# Test Customize Material Date Picker
+
+## Overview
+
+A spike for date picker highlight date
+![Result](./public/example.png)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.27.
 

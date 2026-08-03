@@ -1,0 +1,13 @@
+::ng-deep {
+  .blocked-date {
+    background-color: #ff2c2c3f !important; /* Red */
+    color: white !important;
+    border-radius: 50% !important;
+    pointer-events: none !important;
+  }
+
+  .warned-date {
+    background-color: #ffeb3b3f !important; /* Yellow */
+    border-radius: 50% !important;
+  }
+}
